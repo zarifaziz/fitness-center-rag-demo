@@ -20,7 +20,7 @@ export default function Chat() {
                   m.content
                 ) : (
                   <span className="italic font-light">
-                    {'calling tool: ' + m?.toolInvocations?.[0].toolName}
+                    {'calling tool: ' + m?.toolInvocations?.map(tool => tool.toolName).join(', ')}
                   </span>
                 )}
               </p>
