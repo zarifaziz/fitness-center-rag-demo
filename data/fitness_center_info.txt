@@ -1,119 +1,119 @@
-# Sydney Fitness Center
+Sydney Fitness Center
 
-## Overview
+Overview
 Sydney Fitness Center is a premier gym located in the heart of Sydney. Our mission is to provide state-of-the-art fitness facilities, a wide range of fitness classes, and professional personal training to help our members achieve their fitness goals.
 
 Contact Information
-- **Address**: 123 Fitness Ave, Sydney, NSW, 2000
-- **Phone**: +61 2 1234 5678
-- **Email**: contact@sydneyfitnesscenter.com.au
-- **Website**: [www.sydneyfitnesscenter.com.au](http://www.sydneyfitnesscenter.com.au)
+Address: 123 Fitness Ave, Sydney, NSW, 2000
+Phone: +61 2 1234 5678
+Email: contact@sydneyfitnesscenter.com.au
+Website: www.sydneyfitnesscenter.com.au
 
-## Membership Plans
+Membership Plans
 We offer a variety of membership plans to suit different needs and budgets.
 
 Basic Membership
-- **Price**: $50 per month
-- **Access**: Access to gym facilities during staffed hours
-- **Benefits**: One free fitness class per month
+Price: $50 per month
+Access: Access to gym facilities during staffed hours
+Benefits: One free fitness class per month
 
 Premium Membership
-- **Price**: $80 per month
-- **Access**: 24/7 access to gym facilities
-- **Benefits**: Unlimited fitness classes, 2 personal training sessions per month
+Price: $80 per month
+Access: 24/7 access to gym facilities
+Benefits: Unlimited fitness classes, 2 personal training sessions per month
 
 VIP Membership
-- **Price**: $120 per month
-- **Access**: 24/7 access to gym facilities
-- **Benefits**: Unlimited fitness classes, unlimited personal training sessions, access to VIP lounge
+Price: $120 per month
+Access: 24/7 access to gym facilities
+Benefits: Unlimited fitness classes, unlimited personal training sessions, access to VIP lounge
 
-## Facilities
+Facilities
 Our state-of-the-art facilities are designed to cater to all your fitness needs.
 
 Gym Floor
-- **Equipment**: Treadmills, ellipticals, stationary bikes, weight machines, free weights, and more
-- **Features**: Large workout space, clean and well-maintained equipment
+Equipment: Treadmills, ellipticals, stationary bikes, weight machines, free weights, and more
+Features: Large workout space, clean and well-maintained equipment
 
 Group Fitness Studios
-- **Studios**: 3 large studios for group fitness classes
-- **Features**: Mirrors, sound systems, variety of equipment for different classes
+Studios: 3 large studios for group fitness classes
+Features: Mirrors, sound systems, variety of equipment for different classes
 
 Personal Training Area
-- **Features**: Private and semi-private training spaces
-- **Equipment**: Specialized equipment for personal training sessions
+Features: Private and semi-private training spaces
+Equipment: Specialized equipment for personal training sessions
 
 VIP Lounge
-- **Access**: Exclusive access for VIP members
-- **Features**: Comfortable seating, complimentary snacks and beverages, private showers
+Access: Exclusive access for VIP members
+Features: Comfortable seating, complimentary snacks and beverages, private showers
 
-## Fitness Classes
+Fitness Classes
 We offer a wide range of fitness classes for all fitness levels.
 
 Cardio Classes
-- **Classes**: Zumba, Spinning, HIIT
-- **Schedule**: Monday to Friday, various times
+Classes: Zumba, Spinning, HIIT
+Schedule: Monday to Friday, various times
 
 Strength Classes
-- **Classes**: BodyPump, Strength Training, Kettlebell
-- **Schedule**: Monday, Wednesday, Friday, various times
+Classes: BodyPump, Strength Training, Kettlebell
+Schedule: Monday, Wednesday, Friday, various times
 
 Mind and Body Classes
-- **Classes**: Yoga, Pilates, Tai Chi
-- **Schedule**: Tuesday, Thursday, Saturday, various times
+Classes: Yoga, Pilates, Tai Chi
+Schedule: Tuesday, Thursday, Saturday, various times
 
-## Personal Training
+Personal Training
 Our certified personal trainers are here to help you achieve your fitness goals.
 
 Meet Our Trainers
-- **John Doe**
-  - **Specialization**: Strength training, bodybuilding
-  - **Experience**: 10 years
-  - **Certifications**: Certified Strength and Conditioning Specialist (CSCS)
+John Doe (Personal Trainer)
+Specialization: Strength training, bodybuilding
+Experience: 10 years
+Certifications: Certified Strength and Conditioning Specialist (CSCS)
 
-- **Jane Smith**
-  - **Specialization**: Weight loss, functional training
-  - **Experience**: 8 years
-  - **Certifications**: Certified Personal Trainer (CPT)
+Jane Smith (Personal Trainer)
+Specialization: Weight loss, functional training
+Experience: 8 years
+Certifications: Certified Personal Trainer (CPT)
 
 Personal Training Packages
-- **Single Session**: $60 per session
-- **5 Sessions Pack**: $275
-- **10 Sessions Pack**: $500
+Single Session: $60 per session
+5 Sessions Pack: $275
+10 Sessions Pack: $500
 
-## Member Services
+Member Services
 We provide a range of services to enhance your fitness experience.
 
 Locker Rooms
-- **Features**: Secure lockers, clean showers, complimentary toiletries
+Features: Secure lockers, clean showers, complimentary toiletries
 
 Nutrition Counseling
-- **Services**: Personalized nutrition plans, one-on-one consultations
+Services: Personalized nutrition plans, one-on-one consultations
 
 Wellness Programs
-- **Programs**: Stress management, wellness workshops, health screenings
+Programs: Stress management, wellness workshops, health screenings
 
-## Events and Promotions
+Events and Promotions
 Stay up-to-date with our latest events and special promotions.
 
 Upcoming Events
-- **Member Appreciation Day**
-  - **Date**: August 15, 2024
-  - **Details**: Free classes, refreshments, giveaways
+Member Appreciation Day
+Date: August 15, 2024
+Details: Free classes, refreshments, giveaways
 
-- **Fitness Challenge**
-  - **Date**: September 1-30, 2024
-  - **Details**: Participate in our 30-day fitness challenge and win prizes
+Fitness Challenge
+Date: September 1-30, 2024
+Details: Participate in our 30-day fitness challenge and win prizes
 
 Current Promotions
-- **Summer Special**
-  - **Offer**: 20% off on all membership plans
-  - **Validity**: June 1 - August 31, 2024
+Summer Special
+Offer: 20% off on all membership plans
+Validity: June 1 - August 31, 2024
 
-- **Referral Program**
-  - **Offer**: Refer a friend and get one month free
-  - **Details**: Valid for both new and existing members
+Referral Program
+Offer: Refer a friend and get one month free
+Details: Valid for both new and existing members
 
-## Frequently Asked Questions (FAQs)
+Frequently Asked Questions (FAQs)
 How do I sign up for a membership?
 You can sign up for a membership online through our website or visit us in person at the front desk.
 

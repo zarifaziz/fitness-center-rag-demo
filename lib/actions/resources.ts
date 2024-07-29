@@ -17,8 +17,10 @@ export const createResource = async (input: NewResourceParams) => {
       .insert(resources)
       .values({ content })
       .returning();
+    console.log(`createResource: resource created with id: ${resource.id}`);
 
     const embeddings = await generateEmbeddings(content);
+    console.log(`createResource: number of embeddings generated: ${embeddings.length}`);
     await db.insert(embeddingsTable).values(
       embeddings.map(embedding => ({
         resourceId: resource.id,
