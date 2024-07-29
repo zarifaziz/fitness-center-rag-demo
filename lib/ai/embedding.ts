@@ -3,14 +3,14 @@ import { openai } from '@ai-sdk/openai';
 import { db } from '../db';
 import { cosineDistance, desc, gt, sql } from 'drizzle-orm';
 import { embeddings } from '../db/schema/embeddings';
-import { sectionBasedChunking } from './chunkingStrategies';
+import { basicChunking } from './chunkingStrategies';
 
 const embeddingModel = openai.embedding('text-embedding-3-small');
 
 export const generateEmbeddings = async (
   value: string,
 ): Promise<Array<{ embedding: number[]; content: string }>> => {
-  const chunks = sectionBasedChunking(value);
+  const chunks = basicChunking(value);
   const { embeddings } = await embedMany({
     model: embeddingModel,
     values: chunks,

@@ -5,7 +5,7 @@ import { useChat } from 'ai/react';
 export default function Chat() {
   
   const { messages, input, handleInputChange, handleSubmit } = useChat({
-    maxToolRoundtrips: 2,
+    maxToolRoundtrips: 4,
   });
   
   return (
