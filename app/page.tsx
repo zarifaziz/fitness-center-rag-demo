@@ -4,7 +4,6 @@ import { useChat } from 'ai/react';
 import Head from 'next/head';
 import { Inter } from 'next/font/google';
 import styles from '@/styles/Home.module.css';
-import { SearchDialog } from '@/components/SearchDialog';
 import Image from 'next/image';
 import Link from 'next/link';
 
@@ -31,14 +30,6 @@ export default function Home() {
           <h1 className="text-center text-6xl font-bold py-2">AI Answer Engine</h1>
           <h4 className="text-center text-4xl font-semibold py-2">Powered by RAG + Text2SQL</h4>
         </div>
-        {/* <div className={styles.center}>
-          <SearchDialog
-            messages={messages}
-            input={input}
-            handleInputChange={handleInputChange}
-            handleSubmit={handleSubmit}
-          />
-        </div> */}
 
         <div className="space-y-4 mb-4">
           {messages.map(m => (
