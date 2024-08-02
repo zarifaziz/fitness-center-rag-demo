@@ -3,13 +3,19 @@ import { openai } from '@ai-sdk/openai';
 import { convertToCoreMessages, streamText} from 'ai';
 
 import fs from 'fs';
-import { run } from 'node:test';
 import path from 'path';
 
 // Allow streaming responses up to 30 seconds
 export const maxDuration = 30;
 
 export async function POST(req: Request) {
+/**
+ * Handles a POST request by reading a prompt from a text file, converting the request body to core messages,
+ * and invoking the appropriate tools to generate a response. The response is returned as an AI stream response.
+ *
+ * @param {Request} req - The request object containing the request body.
+ * @return {Promise<Response>} A promise that resolves to an AI stream response.
+ */
   const { messages } = await req.json();
 
   // Read the prompt from the text file
