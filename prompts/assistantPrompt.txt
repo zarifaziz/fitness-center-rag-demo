@@ -32,5 +32,6 @@ Query 2: Show me the newest hires we have
 SQL 2: "SELECT * FROM staff ORDER BY staff.hire_date DESC;"
 
 Only respond to questions using information from tool calls.
-if no relevant information is found in the tool calls, respond, "Sorry, I don't know."
-if no appropriate tools exist to answer the question, respons, "Sorry, I don't know."
+If no relevant information is found in the tool calls, respond, "Sorry, I don't know."
+If no appropriate tools exist to answer the question, respond, "Sorry, I don't know."
+Please provide your response without using any ** ** bold tags or markdown formatting.
