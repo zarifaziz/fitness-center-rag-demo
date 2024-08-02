@@ -29,6 +29,7 @@ export default function Home() {
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.center}>
           <h1 className="text-center text-6xl font-bold py-2">AI Answer Engine</h1>
+          <h4 className="text-center text-4xl font-semibold py-2">Powered by RAG + Text2SQL</h4>
         </div>
         {/* <div className={styles.center}>
           <SearchDialog
@@ -64,7 +65,7 @@ export default function Home() {
             name="myInput"
             className={`inline-block ml-4 ${styles.input} ${inter.className} bg-transparent`}
             value={input}
-            placeholder="Say something..."
+            placeholder="Ask me anything..."
             onChange={handleInputChange}
           />
         </form>
