@@ -28,7 +28,7 @@ export default function Home() {
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.center}>
           <h1 className="text-center text-6xl font-bold py-2">AI Answer Engine</h1>
-          <h4 className="text-center text-4xl font-semibold py-2">Powered by RAG + Text2SQL</h4>
+          <h4 className="text-center text-4xl font-semibold py-2">Powered by Vector Search + Text2SQL</h4>
         </div>
 
         <div className="space-y-4 mb-4">
