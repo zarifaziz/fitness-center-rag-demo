@@ -1,12 +1,13 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import "./globals.css";
+// import "./globals.css";
+import '@/styles/globals.css';
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Answer Engine",
-  description: "RAG + Text2SQL Chatbot",
+  title: "AI Answer Engine",
+  description: "AI Answer Engine powered by RAG + Text2SQL Chatbot",
 };
 
 export default function RootLayout({

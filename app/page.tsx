@@ -18,7 +18,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Fitness Center AI Assistant</title>
+        <title>AI Answer Engine</title>
         <meta
           name="description"
           content="An answer engine for your company queries. Powered by advanced AI technology."
@@ -26,9 +26,9 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className={styles.main}>
+      <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.center}>
-          <h1 className="text-center text-6xl font-bold py-2">Fitness Center AI assistant</h1>
+          <h1 className="text-center text-6xl font-bold py-2">AI Answer Engine</h1>
         </div>
         {/* <div className={styles.center}>
           <SearchDialog
@@ -58,9 +58,11 @@ export default function Home() {
           ))}
         </div>
 
-        <form onSubmit={handleSubmit}>
+        <form onSubmit={handleSubmit} className={inter.className}>
           <input
-            className={styles.input}
+            id="myInput"
+            name="myInput"
+            className={`inline-block ml-4 ${styles.input} ${inter.className} bg-transparent`}
             value={input}
             placeholder="Say something..."
             onChange={handleInputChange}
