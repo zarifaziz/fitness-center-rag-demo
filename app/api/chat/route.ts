@@ -23,7 +23,7 @@ export async function POST(req: Request) {
   const system = fs.readFileSync(promptPath, 'utf8');
 
   const result = await streamText({
-    model: openai('gpt-4o'),
+    model: openai('gpt-4o-mini'),
     system,
     messages: convertToCoreMessages(messages),
     tools: {
