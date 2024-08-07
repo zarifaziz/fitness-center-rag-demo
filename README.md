@@ -1,4 +1,4 @@
-# AI Search Bar
+# AI Search Assistant
 
 This is a chatbot application powered by Vector Search + Text2SQL.
 It is built using the Vercel AI SDK and Retrieval-Augmented Generation (RAG). 

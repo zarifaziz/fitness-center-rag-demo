@@ -6,8 +6,8 @@ import '@/styles/globals.css';
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "AI Search Bar",
-  description: "AI Search Bar powered by Vector Search + Text2SQL",
+  title: "AI Search Assistant",
+  description: "AI Search Assistant powered by Vector Search + Text2SQL",
 };
 
 export default function RootLayout({

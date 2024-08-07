@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>AI Search Bar</title>
+        <title>AI Search Assistant</title>
         <meta
           name="description"
           content="An answer engine for your company queries. Powered by advanced AI technology."
@@ -27,7 +27,7 @@ export default function Home() {
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.center}>
-          <h1 className="text-center text-6xl font-bold py-2">AI Search Bar</h1>
+          <h1 className="text-center text-6xl font-bold py-2">AI Search Assistant</h1>
           <h4 className="text-center text-4xl font-semibold py-2">Powered by Vector Search + Text2SQL</h4>
         </div>
 
