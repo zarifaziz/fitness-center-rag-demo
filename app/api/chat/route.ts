@@ -29,7 +29,7 @@ export async function POST(req: Request) {
     tools: {
       AddKnowledge: addResourceTool,
       SearchKnowledgeBase: getInformationTool,
-      RunDatabaseQuery: runSqlTool,
+      SearchDatabase: runSqlTool,
     },
   });
 
