@@ -27,9 +27,9 @@ export async function POST(req: Request) {
     system,
     messages: convertToCoreMessages(messages),
     tools: {
-      addResource: addResourceTool,
-      getInformation: getInformationTool,
-      runSql: runSqlTool,
+      AddKnowledge: addResourceTool,
+      SearchKnowledgeBase: getInformationTool,
+      RunDatabaseQuery: runSqlTool,
     },
   });
 
